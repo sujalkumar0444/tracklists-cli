@@ -15,13 +15,7 @@ Interactive multi-list todo CLI for the terminal.
 
 ## Install
 
-For GitHub Packages, authenticate first and configure scope mapping:
-
-```bash
-npm login --scope=@sujalkumar0444 --auth-type=legacy --registry=https://npm.pkg.github.com
-```
-
-Then install globally:
+Install globally:
 
 ```bash
 npm install -g @sujalkumar0444/tracklists-cli
