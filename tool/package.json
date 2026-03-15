@@ -1,6 +1,6 @@
 {
   "name": "@sujalkumar0444/tracklists-cli",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Interactive multi-list todo CLI with multiple lists and guided prompts",
   "main": "index.js",
   "bin": {
